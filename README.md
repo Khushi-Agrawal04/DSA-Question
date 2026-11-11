@@ -21,16 +21,18 @@ This repository contains my Data Structures and Algorithms (DSA) practice soluti
 | 3 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Single Pass / Greedy | O(n) | O(1) |
 | 4 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | Binary Exponentiation | O(log n) | O(1)* |
 | 5 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Boyer-Moore Voting Algorithm | O(n) | O(1) |
+| 6 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Kadane's Algorithm | O(n) | O(1) |
+| 7 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Dutch National Flag Algorithm (Three Pointers) | O(n) | O(1) |
 
-*Complexities represent the standard optimal approaches; update them if your implementation uses a different approach. For Pow(x, n), O(1) space assumes an iterative implementation.*
+*Complexities represent the standard optimal approaches. For Pow(x, n), O(1) space assumes an iterative implementation.*
 
 ## 📊 Progress Tracker
 
 | Metric | Count |
 |---|---:|
-| Total Problems Solved | 5 |
+| Total Problems Solved | 7 |
 | Easy | 4 |
-| Medium | 1 |
+| Medium | 3 |
 | Hard | 0 |
 
 ## 🛠️ Technologies Used
